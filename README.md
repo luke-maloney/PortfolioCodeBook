@@ -1,1 +1,2 @@
 # PortfolioCodeBook
+This codebook was for a project in my data analytics class at American University that I took while pursuing my Master's degree. We were asked to clean a data set and then create a code book to facilitate its use. I used Freedom House's Freedom in the World data. After relabeling all variables (in Freedom House's dataset they are all listed as A1, A2, B1, B2, etc.), I classified them as factors to demonstrate how often the answers appeared. I limited the scope of my data to countries of the former Soviet Union from 2019 to 2023.
